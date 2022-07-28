@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
 :root {
-  --primary-color: rgb(255, 166, 0);
-  --secondary-color: rgb(27, 203, 115);
+  --primary-color: darkblue;
+  --secondary-color: orange;
 }
 * {
   /* Below is the standard CSS code one should add to get rid of default margins and padding which most of tge HTML elements have */
@@ -55,7 +55,7 @@ body {
   background-color: black;
 }
 .navbar a:hover {
-  background-color: yellowgreen;
+  background-color: red;
 }
 .navbar #menu {
   width: fit-content;
