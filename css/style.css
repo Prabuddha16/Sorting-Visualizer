@@ -55,7 +55,7 @@ body {
   background-color: black;
 }
 .navbar a:hover {
-  background-color: red;
+  background-color: #dc0220;
 }
 .navbar #menu {
   width: fit-content;
@@ -78,7 +78,7 @@ body {
 /* Center css */
 .center {
   margin: 0 auto;
-  background-color: #ced6da;
+  background-color: #ebecf3;
   box-shadow: rgba(8, 73, 250, 0.936); /* Added shadow to make page border free */
   height: 420px;
   width: 410px;
@@ -102,10 +102,10 @@ body {
   resize: horizontal;
   position: relative;
   transition: all 0.4s ease-in;
-  box-shadow: #ff5252;
+  box-shadow: #5ed84d;
 }
 .cell.done {
-  background-color: #f00e0e;
+  background-color: #5ed84d;
   border-color: #db1919;
   color: white;
   transition: all 0.4s ease-out;
@@ -133,7 +133,7 @@ body {
 footer {
   text-align: center;
   font-size: 28px;
-  color: #2c3e50;
+  color: black;
   padding: 1.6em;
 }
 .footer > p:nth-child(1) {
@@ -142,7 +142,7 @@ footer {
 .link {
   text-decoration: none;
   font-weight: bold;
-  color: #ff5252;
+  color: #334fff;
   font-size: 30px;
 }
 
